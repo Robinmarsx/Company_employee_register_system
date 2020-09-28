@@ -1,0 +1,14 @@
+task
+t5
+t5
+1
+party_subtask
+team1
+it is a party.
+0
+t7
+t7
+1
+party_subtask
+OK, i will do it.
+999

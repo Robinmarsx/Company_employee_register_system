@@ -1,0 +1,25 @@
+event
+t1
+t1
+1
+concert
+it is a firework concert
+0
+t2
+t2
+1
+concert
+approve
+0
+t3
+t3
+1
+concert
+I think it is OK.
+0
+t4
+t4
+1
+concert
+approve
+999

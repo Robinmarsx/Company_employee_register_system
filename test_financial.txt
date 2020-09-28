@@ -1,0 +1,13 @@
+financial
+t5
+t5
+2
+party_financial
+We need 1000$ for budget.
+0
+t3
+t3
+2
+party_financial
+approve
+999

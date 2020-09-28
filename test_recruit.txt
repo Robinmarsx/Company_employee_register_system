@@ -1,0 +1,13 @@
+recruit
+t6
+t6
+3
+party_stuff
+We want a chief.
+0
+t8
+t8
+1
+party_stuff
+approve
+999
